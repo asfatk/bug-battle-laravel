@@ -1,0 +1,17 @@
+
+# Environment
+**/.env
+
+# Dependencies
+**/vendor/
+**/node_modules/
+
+# SQLite database
+**/database/*.sqlite
+
+# Laravel runtime files
+**/storage/logs/*.log
+**/storage/framework/cache/data/*
+**/storage/framework/sessions/*
+**/storage/framework/views/*.php
+**/bootstrap/cache/*.php
